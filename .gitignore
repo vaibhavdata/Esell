@@ -1,0 +1,17 @@
+Esell/__pycache__
+Esell/membership/__pycache__
+Esell/membership/migrations
+Esell/membership/api/__pycache__
+*.log
+db.sqlite3
+
+# pyenv
+.python3-version
+
+.env
+env/
+ENV/
+
+
+
+Esell/.gitignore at master · vaibhavdata/Esell
