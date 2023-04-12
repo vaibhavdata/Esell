@@ -1,12 +1,21 @@
 asgiref
 backports.zoneinfo
+<<<<<<< HEAD
 dj-database-url
+=======
+>>>>>>> 17ae2991eed7084c171fd1e5d58fe69bd2b110db
 Django
 djangorestframework
 djangorestframework-simplejwt
 gunicorn
 PyJWT
+<<<<<<< HEAD
 pytz
 rest-framework-simplejwt
 sqlparse
 typing-extensions
+=======
+pytz==2023.3
+rest-framework-simplejwt
+sqlparse
+>>>>>>> 17ae2991eed7084c171fd1e5d58fe69bd2b110db
