@@ -1,5 +1,5 @@
 asgiref
-backports.zoneinfo
+
 dj-database-url
 Django
 djangorestframework
